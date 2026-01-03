@@ -40,7 +40,7 @@ Sales data including car model, body style, color, price, dealer region, date, a
 The dashboard enables stakeholders to monitor performance, identify trends, and uncover growth opportunities across regions and product categories.
 
 ## 📎 Screenshots
-EXAMPLE : [DASHBOARD PREVIEW](https://github.com/mohitpullawar/CARSALES/blob/main/OVERVIEW.png)
+EXAMPLE : ![DASHBOARD PREVIEW](https://github.com/mohitpullawar/CARSALES/blob/main/OVERVIEW.png)
 
 ## 👤 Author
 Mohit Pullawar
